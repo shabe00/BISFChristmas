@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OnionLand.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Onion_Landing0000" x="15" y="15" width="763" height="992" frameX="-376" frameY="0" frameWidth="1324" frameHeight="1409"/>
+	<SubTexture name="Onion_Landing0001" x="793" y="15" width="763" height="995" frameX="-377" frameY="-198" frameWidth="1324" frameHeight="1409"/>
+	<SubTexture name="Onion_Landing0002" x="1571" y="15" width="781" height="993" frameX="-352" frameY="-398" frameWidth="1324" frameHeight="1409"/>
+	<SubTexture name="Onion_Landing0003" x="2367" y="15" width="958" height="433" frameX="-241" frameY="-976" frameWidth="1324" frameHeight="1409"/>
+	<SubTexture name="Onion_Landing0004" x="15" y="1025" width="1001" height="433" frameX="-224" frameY="-971" frameWidth="1324" frameHeight="1409"/>
+	<SubTexture name="Onion_Landing0005" x="1031" y="1025" width="1112" height="458" frameX="-144" frameY="-946" frameWidth="1324" frameHeight="1409"/>
+	<SubTexture name="Onion_Landing0006" x="2158" y="1025" width="1324" height="447" frameX="0" frameY="-946" frameWidth="1324" frameHeight="1409"/>
+	<SubTexture name="Onion_Landing0007" x="15" y="1498" width="742" height="447" frameX="-426" frameY="-946" frameWidth="1324" frameHeight="1409"/>
+	<SubTexture name="Onion_Landing0008" x="772" y="1498" width="713" height="449" frameX="-426" frameY="-944" frameWidth="1324" frameHeight="1409"/>
+</TextureAtlas>

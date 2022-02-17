@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fling.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fling0000" x="15" y="15" width="1174" height="583" frameX="-694" frameY="-37" frameWidth="2491" frameHeight="620"/>
+	<SubTexture name="fling0001" x="1204" y="15" width="1476" height="561" frameX="-523" frameY="-28" frameWidth="2491" frameHeight="620"/>
+	<SubTexture name="fling0002" x="15" y="613" width="1834" height="566" frameX="-341" frameY="0" frameWidth="2491" frameHeight="620"/>
+	<SubTexture name="fling0003" x="1864" y="613" width="2190" height="510" frameX="-195" frameY="-8" frameWidth="2491" frameHeight="620"/>
+	<SubTexture name="fling0004" x="15" y="1194" width="2491" height="514" frameX="0" frameY="-48" frameWidth="2491" frameHeight="620"/>
+	<SubTexture name="fling0005" x="15" y="1194" width="2491" height="514" frameX="0" frameY="-48" frameWidth="2491" frameHeight="620"/>
+	<SubTexture name="fling0006" x="15" y="1194" width="2491" height="514" frameX="0" frameY="-48" frameWidth="2491" frameHeight="620"/>
+	<SubTexture name="fling0007" x="15" y="1194" width="2491" height="514" frameX="0" frameY="-48" frameWidth="2491" frameHeight="620"/>
+	<SubTexture name="fling0008" x="15" y="1194" width="2491" height="514" frameX="0" frameY="-48" frameWidth="2491" frameHeight="620"/>
+	<SubTexture name="fling0009" x="15" y="1194" width="2491" height="514" frameX="0" frameY="-48" frameWidth="2491" frameHeight="620"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SFXBop.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SFXBoppers0000" x="15" y="15" width="2997" height="881" frameX="0" frameY="-19" frameWidth="2997" frameHeight="900"/>
+	<SubTexture name="SFXBoppers0001" x="15" y="15" width="2997" height="881" frameX="0" frameY="-19" frameWidth="2997" frameHeight="900"/>
+	<SubTexture name="SFXBoppers0002" x="3027" y="15" width="2989" height="887" frameX="-4" frameY="-13" frameWidth="2997" frameHeight="900"/>
+	<SubTexture name="SFXBoppers0003" x="3027" y="15" width="2989" height="887" frameX="-4" frameY="-13" frameWidth="2997" frameHeight="900"/>
+	<SubTexture name="SFXBoppers0004" x="15" y="917" width="2981" height="894" frameX="-9" frameY="-6" frameWidth="2997" frameHeight="900"/>
+	<SubTexture name="SFXBoppers0005" x="15" y="917" width="2981" height="894" frameX="-9" frameY="-6" frameWidth="2997" frameHeight="900"/>
+	<SubTexture name="SFXBoppers0006" x="3011" y="917" width="2975" height="897" frameX="-13" frameY="-3" frameWidth="2997" frameHeight="900"/>
+	<SubTexture name="SFXBoppers0007" x="3011" y="917" width="2975" height="897" frameX="-13" frameY="-3" frameWidth="2997" frameHeight="900"/>
+	<SubTexture name="SFXBoppers0008" x="15" y="1829" width="2973" height="900" frameX="-13" frameY="0" frameWidth="2997" frameHeight="900"/>
+	<SubTexture name="SFXBoppers0009" x="15" y="1829" width="2973" height="900" frameX="-13" frameY="0" frameWidth="2997" frameHeight="900"/>
+	<SubTexture name="SFXBoppers0010" x="15" y="1829" width="2973" height="900" frameX="-13" frameY="0" frameWidth="2997" frameHeight="900"/>
+	<SubTexture name="SFXBoppers0011" x="15" y="1829" width="2973" height="900" frameX="-13" frameY="0" frameWidth="2997" frameHeight="900"/>
+	<SubTexture name="SFXBoppers0012" x="15" y="1829" width="2973" height="900" frameX="-13" frameY="0" frameWidth="2997" frameHeight="900"/>
+	<SubTexture name="SFXBoppers0013" x="15" y="1829" width="2973" height="900" frameX="-13" frameY="0" frameWidth="2997" frameHeight="900"/>
+</TextureAtlas>

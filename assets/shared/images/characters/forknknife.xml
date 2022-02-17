@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="forknknife.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="forknknife0000" x="15" y="15" width="867" height="816" frameX="0" frameY="-3" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0001" x="897" y="15" width="867" height="816" frameX="0" frameY="-3" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0002" x="1779" y="15" width="870" height="819" frameX="0" frameY="0" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0003" x="2664" y="15" width="870" height="819" frameX="0" frameY="0" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0004" x="3549" y="15" width="870" height="819" frameX="0" frameY="0" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0005" x="4434" y="15" width="870" height="819" frameX="0" frameY="0" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0006" x="5319" y="15" width="871" height="814" frameX="0" frameY="-5" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0007" x="6205" y="15" width="881" height="810" frameX="0" frameY="-9" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0008" x="6205" y="15" width="881" height="810" frameX="0" frameY="-9" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0009" x="6205" y="15" width="881" height="810" frameX="0" frameY="-9" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0010" x="7101" y="15" width="881" height="808" frameX="0" frameY="-11" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0011" x="7101" y="15" width="881" height="808" frameX="0" frameY="-11" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0012" x="7101" y="15" width="881" height="808" frameX="0" frameY="-11" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0013" x="15" y="849" width="879" height="806" frameX="0" frameY="-13" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0014" x="15" y="849" width="879" height="806" frameX="0" frameY="-13" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0015" x="909" y="849" width="858" height="780" frameX="0" frameY="-39" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0016" x="1782" y="849" width="858" height="780" frameX="0" frameY="-39" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0017" x="2655" y="849" width="854" height="777" frameX="0" frameY="-42" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0018" x="3524" y="849" width="854" height="777" frameX="0" frameY="-42" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0019" x="4393" y="849" width="856" height="781" frameX="0" frameY="-38" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0020" x="5264" y="849" width="856" height="781" frameX="0" frameY="-38" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0021" x="6135" y="849" width="867" height="791" frameX="0" frameY="-28" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0022" x="7017" y="849" width="880" height="806" frameX="0" frameY="-13" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0023" x="7017" y="849" width="880" height="806" frameX="0" frameY="-13" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0024" x="7017" y="849" width="880" height="806" frameX="0" frameY="-13" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0025" x="7101" y="15" width="881" height="808" frameX="0" frameY="-11" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0026" x="7101" y="15" width="881" height="808" frameX="0" frameY="-11" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0027" x="7101" y="15" width="881" height="808" frameX="0" frameY="-11" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0028" x="15" y="1670" width="881" height="810" frameX="0" frameY="-9" frameWidth="881" frameHeight="819"/>
+	<SubTexture name="forknknife0029" x="15" y="1670" width="881" height="810" frameX="0" frameY="-9" frameWidth="881" frameHeight="819"/>
+</TextureAtlas>

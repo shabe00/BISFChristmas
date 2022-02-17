@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Santa_Assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Santa_Down0000" x="15" y="15" width="625" height="679" frameX="0" frameY="-7" frameWidth="629" frameHeight="687"/>
+	<SubTexture name="Santa_Down0001" x="655" y="15" width="625" height="679" frameX="0" frameY="-7" frameWidth="629" frameHeight="687"/>
+	<SubTexture name="Santa_Down0002" x="1295" y="15" width="625" height="687" frameX="0" frameY="0" frameWidth="629" frameHeight="687"/>
+	<SubTexture name="Santa_Down0003" x="1935" y="15" width="629" height="687"/>
+	<SubTexture name="Santa_Down0004" x="2579" y="15" width="625" height="686" frameX="0" frameY="-1" frameWidth="629" frameHeight="687"/>
+	<SubTexture name="Santa_Down0005" x="2579" y="15" width="625" height="686" frameX="0" frameY="-1" frameWidth="629" frameHeight="687"/>
+	<SubTexture name="Santa_Down0006" x="2579" y="15" width="625" height="686" frameX="0" frameY="-1" frameWidth="629" frameHeight="687"/>
+	<SubTexture name="Santa_Down0007" x="2579" y="15" width="625" height="686" frameX="0" frameY="-1" frameWidth="629" frameHeight="687"/>
+	<SubTexture name="Santa_Down0008" x="2579" y="15" width="625" height="686" frameX="0" frameY="-1" frameWidth="629" frameHeight="687"/>
+	<SubTexture name="Santa_Down0009" x="2579" y="15" width="625" height="686" frameX="0" frameY="-1" frameWidth="629" frameHeight="687"/>
+	<SubTexture name="Santa_Idle0000" x="3219" y="15" width="626" height="719" frameX="0" frameY="-15" frameWidth="626" frameHeight="735"/>
+	<SubTexture name="Santa_Idle0001" x="15" y="749" width="626" height="719" frameX="0" frameY="-15" frameWidth="626" frameHeight="735"/>
+	<SubTexture name="Santa_Idle0002" x="656" y="749" width="620" height="723" frameX="-3" frameY="-11" frameWidth="626" frameHeight="735"/>
+	<SubTexture name="Santa_Idle0003" x="1291" y="749" width="620" height="723" frameX="-3" frameY="-11" frameWidth="626" frameHeight="735"/>
+	<SubTexture name="Santa_Idle0004" x="1926" y="749" width="614" height="732" frameX="-7" frameY="-3" frameWidth="626" frameHeight="735"/>
+	<SubTexture name="Santa_Idle0005" x="2555" y="749" width="614" height="732" frameX="-7" frameY="-3" frameWidth="626" frameHeight="735"/>
+	<SubTexture name="Santa_Idle0006" x="3184" y="749" width="613" height="735" frameX="-7" frameY="0" frameWidth="626" frameHeight="735"/>
+	<SubTexture name="Santa_Idle0007" x="15" y="1499" width="613" height="735" frameX="-7" frameY="0" frameWidth="626" frameHeight="735"/>
+	<SubTexture name="Santa_Idle0008" x="643" y="1499" width="613" height="734" frameX="-7" frameY="-1" frameWidth="626" frameHeight="735"/>
+	<SubTexture name="Santa_Idle0009" x="643" y="1499" width="613" height="734" frameX="-7" frameY="-1" frameWidth="626" frameHeight="735"/>
+	<SubTexture name="Santa_Idle0010" x="643" y="1499" width="613" height="734" frameX="-7" frameY="-1" frameWidth="626" frameHeight="735"/>
+	<SubTexture name="Santa_Idle0011" x="643" y="1499" width="613" height="734" frameX="-7" frameY="-1" frameWidth="626" frameHeight="735"/>
+	<SubTexture name="Santa_Idle0012" x="643" y="1499" width="613" height="734" frameX="-7" frameY="-1" frameWidth="626" frameHeight="735"/>
+	<SubTexture name="Santa_Idle0013" x="643" y="1499" width="613" height="734" frameX="-7" frameY="-1" frameWidth="626" frameHeight="735"/>
+	<SubTexture name="Santa_Left0000" x="1271" y="1499" width="628" height="720" frameX="0" frameY="-2" frameWidth="628" frameHeight="722"/>
+	<SubTexture name="Santa_Left0001" x="1914" y="1499" width="628" height="720" frameX="0" frameY="-2" frameWidth="628" frameHeight="722"/>
+	<SubTexture name="Santa_Left0002" x="2557" y="1499" width="617" height="722" frameX="-11" frameY="0" frameWidth="628" frameHeight="722"/>
+	<SubTexture name="Santa_Left0003" x="3189" y="1499" width="617" height="722" frameX="-11" frameY="0" frameWidth="628" frameHeight="722"/>
+	<SubTexture name="Santa_Left0004" x="15" y="2249" width="619" height="721" frameX="-9" frameY="-1" frameWidth="628" frameHeight="722"/>
+	<SubTexture name="Santa_Left0005" x="15" y="2249" width="619" height="721" frameX="-9" frameY="-1" frameWidth="628" frameHeight="722"/>
+	<SubTexture name="Santa_Left0006" x="15" y="2249" width="619" height="721" frameX="-9" frameY="-1" frameWidth="628" frameHeight="722"/>
+	<SubTexture name="Santa_Left0007" x="15" y="2249" width="619" height="721" frameX="-9" frameY="-1" frameWidth="628" frameHeight="722"/>
+	<SubTexture name="Santa_Left0008" x="15" y="2249" width="619" height="721" frameX="-9" frameY="-1" frameWidth="628" frameHeight="722"/>
+	<SubTexture name="Santa_Left0009" x="15" y="2249" width="619" height="721" frameX="-9" frameY="-1" frameWidth="628" frameHeight="722"/>
+	<SubTexture name="Santa_Right0000" x="649" y="2249" width="658" height="727" frameX="-6" frameY="-2" frameWidth="665" frameHeight="729"/>
+	<SubTexture name="Santa_Right0001" x="1322" y="2249" width="658" height="727" frameX="-6" frameY="-2" frameWidth="665" frameHeight="729"/>
+	<SubTexture name="Santa_Right0002" x="1995" y="2249" width="658" height="729" frameX="0" frameY="0" frameWidth="665" frameHeight="729"/>
+	<SubTexture name="Santa_Right0003" x="2668" y="2249" width="665" height="729"/>
+	<SubTexture name="Santa_Right0004" x="3348" y="2249" width="657" height="729" frameX="-2" frameY="0" frameWidth="665" frameHeight="729"/>
+	<SubTexture name="Santa_Right0005" x="3348" y="2249" width="657" height="729" frameX="-2" frameY="0" frameWidth="665" frameHeight="729"/>
+	<SubTexture name="Santa_Right0006" x="3348" y="2249" width="657" height="729" frameX="-2" frameY="0" frameWidth="665" frameHeight="729"/>
+	<SubTexture name="Santa_Right0007" x="3348" y="2249" width="657" height="729" frameX="-2" frameY="0" frameWidth="665" frameHeight="729"/>
+	<SubTexture name="Santa_Right0008" x="3348" y="2249" width="657" height="729" frameX="-2" frameY="0" frameWidth="665" frameHeight="729"/>
+	<SubTexture name="Santa_Right0009" x="3348" y="2249" width="657" height="729" frameX="-2" frameY="0" frameWidth="665" frameHeight="729"/>
+	<SubTexture name="Santa_Up0000" x="15" y="2993" width="607" height="754"/>
+	<SubTexture name="Santa_Up0001" x="637" y="2993" width="607" height="754"/>
+	<SubTexture name="Santa_Up0002" x="1259" y="2993" width="607" height="746" frameX="0" frameY="-8" frameWidth="607" frameHeight="754"/>
+	<SubTexture name="Santa_Up0003" x="1881" y="2993" width="607" height="746" frameX="0" frameY="-8" frameWidth="607" frameHeight="754"/>
+	<SubTexture name="Santa_Up0004" x="2503" y="2993" width="607" height="749" frameX="0" frameY="-5" frameWidth="607" frameHeight="754"/>
+	<SubTexture name="Santa_Up0005" x="2503" y="2993" width="607" height="749" frameX="0" frameY="-5" frameWidth="607" frameHeight="754"/>
+	<SubTexture name="Santa_Up0006" x="2503" y="2993" width="607" height="749" frameX="0" frameY="-5" frameWidth="607" frameHeight="754"/>
+	<SubTexture name="Santa_Up0007" x="2503" y="2993" width="607" height="749" frameX="0" frameY="-5" frameWidth="607" frameHeight="754"/>
+	<SubTexture name="Santa_Up0008" x="2503" y="2993" width="607" height="749" frameX="0" frameY="-5" frameWidth="607" frameHeight="754"/>
+	<SubTexture name="Santa_Up0009" x="2503" y="2993" width="607" height="749" frameX="0" frameY="-5" frameWidth="607" frameHeight="754"/>
+</TextureAtlas>

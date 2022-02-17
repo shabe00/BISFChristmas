@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="snow roof 2.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="snow roof 20000" x="15" y="15" width="2634" height="675"/>
+	<SubTexture name="snow roof 20001" x="2664" y="15" width="2634" height="675"/>
+	<SubTexture name="snow roof 20002" x="5313" y="15" width="2634" height="675"/>
+	<SubTexture name="snow roof 20003" x="15" y="705" width="2634" height="675"/>
+	<SubTexture name="snow roof 20004" x="2664" y="705" width="2634" height="675"/>
+	<SubTexture name="snow roof 20005" x="5313" y="705" width="2634" height="675"/>
+	<SubTexture name="snow roof 20006" x="15" y="1395" width="2634" height="675"/>
+	<SubTexture name="snow roof 20007" x="2664" y="1395" width="2634" height="675"/>
+	<SubTexture name="snow roof 20008" x="5313" y="1395" width="2634" height="675"/>
+	<SubTexture name="snow roof 20009" x="15" y="2085" width="2634" height="675"/>
+	<SubTexture name="snow roof 20010" x="2664" y="2085" width="2634" height="675"/>
+	<SubTexture name="snow roof 20011" x="5313" y="2085" width="2634" height="675"/>
+	<SubTexture name="snow roof 20012" x="15" y="2775" width="2634" height="675"/>
+	<SubTexture name="snow roof 20013" x="2664" y="2775" width="2634" height="675"/>
+	<SubTexture name="snow roof 20014" x="5313" y="2775" width="2634" height="675"/>
+	<SubTexture name="snow roof 20015" x="15" y="3465" width="2634" height="675"/>
+	<SubTexture name="snow roof 20016" x="2664" y="3465" width="2634" height="675"/>
+	<SubTexture name="snow roof 20017" x="5313" y="3465" width="2634" height="675"/>
+	<SubTexture name="snow roof 20018" x="15" y="4155" width="2634" height="675"/>
+	<SubTexture name="snow roof 20019" x="2664" y="4155" width="2634" height="675"/>
+	<SubTexture name="snow roof 20020" x="5313" y="4155" width="2634" height="675"/>
+	<SubTexture name="snow roof 20021" x="15" y="4845" width="2634" height="675"/>
+	<SubTexture name="snow roof 20022" x="2664" y="4845" width="2634" height="675"/>
+	<SubTexture name="snow roof 20023" x="5313" y="4845" width="2634" height="675"/>
+	<SubTexture name="snow roof 20024" x="15" y="5535" width="2634" height="675"/>
+</TextureAtlas>
